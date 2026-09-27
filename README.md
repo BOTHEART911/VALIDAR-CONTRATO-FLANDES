@@ -1,9 +1,23 @@
-# VALIDAR-CONTRATO-FLANDES
+<div align="center">
 
-Web pública que valida el QR de la **certificación del contrato** (código CCPS#####) de la Alcaldía de Flandes
-y deja descargar el PDF original de la certificación.
-Reemplaza a `validacion-certificado`, que queda redirigiendo aquí para que los QR ya impresos sigan funcionando.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/firma/banner-oscuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/firma/banner-claro.svg">
+  <img src=".github/firma/banner-claro.svg" alt="Oscar Polania · Experto en soluciones digitales" width="100%">
+</picture>
 
-- Lee UNA ficha en Firestore (`flandes-avisos`, colección `certificados`). No llama a Apps Script.
-- La ficha y el PDF los guarda FLANDES-CORE (Validar.gs) cada vez que se saca una certificación.
-- Copyright © Oscar Polania · Experto en soluciones digitales
+<br><br>
+
+<a href="https://wa.me/573103230712?text=Hola%20Oscar%2C%20vi%20tu%20trabajo%20en%20GitHub%20y%20me%20gustar%C3%ADa%20hablar%20contigo%20sobre%20una%20soluci%C3%B3n%20digital."><img src=".github/firma/whatsapp.svg" alt="Escríbeme por WhatsApp" height="56"></a>
+&nbsp;&nbsp;
+<a href="mailto:opolania11@gmail.com?subject=Contacto%20desde%20GitHub"><img src=".github/firma/correo.svg" alt="Escríbeme un correo" height="56"></a>
+
+<br><br>
+
+<a href="https://youtu.be/Bo3RiaxJNtw" title="Ver el video en YouTube"><img src=".github/firma/video.svg" alt="Ver el video en YouTube" width="720"></a>
+
+<br><br>
+
+<sub>© Oscar Polania · Experto en soluciones digitales</sub>
+
+</div>
